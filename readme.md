@@ -1,7 +1,7 @@
 # 水域修改工具 使用说明
 
 <div align="center">
-  readme\video.mp4
+  <video src="readme/video.mp4" controls width="100%"></video>
 </div>
 
 ## 一、安装环境

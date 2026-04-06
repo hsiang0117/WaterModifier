@@ -1,12 +1,7 @@
 # 水域修改工具 使用说明
 
 <div align="center">
-  <video src="readme/video.mp4"
-         width="800"
-         controls
-         loop
-         muted>
-  </video>
+https://github.com/hsiang0117/WaterModifier/tree/main/readme/video.mp4
 </div>
 
 ## 一、安装环境

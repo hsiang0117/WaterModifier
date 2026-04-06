@@ -26,7 +26,7 @@
 安装提供的cuda toolkit
 
 <div style="text-align:center">
-  <img src="cuda_toolkit.png" alt="cuda安装包"/>
+  <img src="readme/cuda_toolkit.png" alt="cuda安装包"/>
 </div>
 
 ### 3、确认安装成功

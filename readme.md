@@ -1,6 +1,8 @@
 # 水域修改工具 使用说明
 
-![demo](readme/video.gif)
+<div style="text-align:center">
+  <img src="readme/video.gif" alt="demo"/>
+</div>
 
 ## 一、安装环境
 

@@ -24,7 +24,7 @@
 
 ### 3、确认安装成功
 
-按下win+r键，输入cmd打开命令行，输入nvcc -V查看安装是否成功。
+按下win+r键，输入cmd打开D:\Unreal Projects\WaterModifier\readme\terrain_root.png命令行，输入nvcc -V查看安装是否成功。
 
 ![cuda安装结果](readme/cuda_result.png)
 
